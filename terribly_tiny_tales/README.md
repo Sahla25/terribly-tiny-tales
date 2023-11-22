@@ -19,7 +19,6 @@ A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 - [Components](#components)
 - [Plugins/dependencies](#usage)
 - [Installation](#installation)
-- [Feedback and Contributions](#contributions)
 
 ## Introduction
 This app is created for the task given by Terribly Tiny Tales for the recruitment process for the role of Frontend Developer intern.
