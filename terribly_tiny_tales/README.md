@@ -77,14 +77,11 @@ This app is created for the task given by Terribly Tiny Tales for the recruitmen
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Benju2205/New-Portfolio.git`
-2. Navigate to the project directory: `cd profile-screen`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
 
-## Feedback and Contributions
-- If you have any feedback, suggestions, or bug reports, please create an issue in the repository.
+1. Navigate to the project directory: `cd profile-screen`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open your browser and visit: `http://localhost:3000`
 
-- Contributions are welcome! If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request.
+
 
